@@ -3,6 +3,8 @@ coderetreatで作ったコードたち
 
 lifegameとは？=>https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0
 
+初期値は銀河の描画
+
 session1 C言語 => ほぼ完成
 
 session2 Ruby => 完成させることが目標だったのでバッドアルゴリズムand可読性
