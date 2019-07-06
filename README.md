@@ -11,6 +11,6 @@ session3 Perl => 復習がてらなので未完成
 
 session4 C言語 => session1を再考し、よいアルゴリズムを書くことができた！！！素晴らしい！！
 
-session5 Java => 勉強がてらに書いてみた
+session5 Java => 勉強がてらに書いてみたため冗長
 
 session6 Python => 最後の1行だけ修正が必要
