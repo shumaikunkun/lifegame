@@ -16,3 +16,5 @@ session4 C言語 => session1を再考し、よいアルゴリズムを書くこ�
 session5 Java => 勉強がてらに書いてみたため冗長
 
 session6 Python => 最後の1行だけ修正が必要
+
+Unityで実装予定=> https://github.com/shumaikunkun/LifeGame_MediaArt
